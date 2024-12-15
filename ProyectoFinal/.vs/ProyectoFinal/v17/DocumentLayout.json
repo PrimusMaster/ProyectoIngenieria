@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\btnstartscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\btnstartscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FollowPlayer.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T00:55:17.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Playerbehaviour.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Playerbehaviour.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Playerbehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Title": "BtnStartScript.cs",
+              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\BtnStartScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BtnStartScript.cs",
+              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\BtnStartScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BtnStartScript.cs",
+              "ViewState": "AgIAABUAAAAAODMzMzMHwBwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T21:16:21.175Z",
+              "WhenOpened": "2024-12-15T03:33:38.815Z",
               "EditorCaption": ""
             }
           ]
