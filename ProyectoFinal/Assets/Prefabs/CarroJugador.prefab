@@ -9,6 +9,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.967577
       objectReference: {fileID: 0}
@@ -92,13 +104,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.089
       objectReference: {fileID: 0}
+    - target: {fileID: -678588488315902003, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93e2a11fbc4984d4295d96ecb1b2cf3e, type: 2}
     - target: {fileID: -345104594601252467, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 93e2a11fbc4984d4295d96ecb1b2cf3e, type: 2}
     - target: {fileID: 919132149155446097, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
       propertyPath: m_Name
-      value: CarroPruebaFinal
+      value: CarroJugador
       objectReference: {fileID: 0}
     - target: {fileID: 1551725859706645306, guid: 3a510af7583fd704caaaa104533d784a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -153,7 +169,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8127790815435817420}
   serializedVersion: 4
-  m_Mass: 1
+  m_Mass: 1200
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
