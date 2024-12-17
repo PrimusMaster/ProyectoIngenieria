@@ -1,0 +1,1012 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.54f1 (129125d4e700) revision 1216805'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'es' Physical Memory: 10153 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\Hub\Editor\2022.3.54f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+51308
+Successfully changed project path to: D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
+D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9360]  Target information:
+
+Player connection [9360]  * "[IP] 192.168.0.215 [Port] 0 [Flags] 2 [Guid] 3339095310 [EditorId] 3339095310 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1JLFIKG6) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9360] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9360] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+Refreshing native plugins compatible for Editor in 115.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.54f1 (129125d4e700)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 6 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     5076 MB
+    Driver:   26.20.11028.0
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56020
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.127382 seconds.
+- Loaded All Assemblies, in  2.362 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 878 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.651 seconds
+Domain Reload Profiling: 3996ms
+	BeginReloadAssembly (602ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (114ms)
+	RebuildNativeTypeToScriptingClass (35ms)
+	initialDomainReloadingComplete (1243ms)
+	LoadAllAssembliesAndSetupDomain (350ms)
+		LoadAssemblies (563ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (344ms)
+			TypeCache.Refresh (342ms)
+				TypeCache.ScanAssembly (316ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1652ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1561ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1098ms)
+			SetLoadedEditorAssemblies (16ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (16ms)
+			ProcessInitializeOnLoadAttributes (327ms)
+			ProcessInitializeOnLoadMethodAttributes (103ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.311 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.758 seconds
+Domain Reload Profiling: 11997ms
+	BeginReloadAssembly (930ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (69ms)
+	RebuildCommonClasses (759ms)
+	RebuildNativeTypeToScriptingClass (354ms)
+	initialDomainReloadingComplete (340ms)
+	LoadAllAssembliesAndSetupDomain (3854ms)
+		LoadAssemblies (3066ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1189ms)
+			TypeCache.Refresh (1124ms)
+				TypeCache.ScanAssembly (1054ms)
+			ScanForSourceGeneratedMonoScriptInfo (45ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (5758ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4996ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (174ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (329ms)
+			ProcessInitializeOnLoadAttributes (4316ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (94ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 53.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3177 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (55.5 KB). Loaded Objects now: 3668.
+Memory consumption went from 166.0 MB to 165.9 MB.
+Total: 11.251400 ms (FindLiveObjects: 0.478100 ms CreateObjectMapping: 0.187100 ms MarkObjects: 10.371800 ms  DeleteObjects: 0.212100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.403 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.763 seconds
+Domain Reload Profiling: 5138ms
+	BeginReloadAssembly (418ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (78ms)
+	RebuildCommonClasses (68ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (132ms)
+	LoadAllAssembliesAndSetupDomain (734ms)
+		LoadAssemblies (939ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (42ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (14ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (3765ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1787ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (58ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (167ms)
+			ProcessInitializeOnLoadAttributes (1444ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+			AfterProcessingInitializeOnLoad (56ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 24.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3150 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3672.
+Memory consumption went from 161.7 MB to 161.6 MB.
+Total: 6.252600 ms (FindLiveObjects: 0.533100 ms CreateObjectMapping: 0.236300 ms MarkObjects: 5.409400 ms  DeleteObjects: 0.071200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/CameraFreeflight.cs: 921d2c9111d80537a1c6f5299550ad1c -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 1edb4a66d3bd28903c58e511a5587f82 -> 16e3292ea1bffb0d32e11ee24643edbf
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.168 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.092 seconds
+Domain Reload Profiling: 5232ms
+	BeginReloadAssembly (358ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (66ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (97ms)
+	LoadAllAssembliesAndSetupDomain (600ms)
+		LoadAssemblies (793ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (21ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (4094ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1889ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (75ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (203ms)
+			ProcessInitializeOnLoadAttributes (1460ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (75ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 33.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3150 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (36.5 KB). Loaded Objects now: 3675.
+Memory consumption went from 161.7 MB to 161.6 MB.
+Total: 8.250800 ms (FindLiveObjects: 1.403000 ms CreateObjectMapping: 0.566500 ms MarkObjects: 6.128200 ms  DeleteObjects: 0.149000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/CameraFreeflight.cs: 921d2c9111d80537a1c6f5299550ad1c -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 1edb4a66d3bd28903c58e511a5587f82 -> 16e3292ea1bffb0d32e11ee24643edbf
+========================================================================
+Received Import Request.
+  Time since last request: 10589.216626 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_001.mat
+  artifactKey: Guid(2f82803448451974cbaccd5b718ba823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_001.mat using Guid(2f82803448451974cbaccd5b718ba823) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'afe4d06f8a986dd5be9af692b7954d62') in 0.959186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_033.mat
+  artifactKey: Guid(aaf0420a68e08254685928919dc90e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_033.mat using Guid(aaf0420a68e08254685928919dc90e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '1a14a10757722233cb530cb1d3daeca5') in 0.035086 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.003292 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_023.mat
+  artifactKey: Guid(7f9fb45bf538ed64fb4d97f28242eee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_023.mat using Guid(7f9fb45bf538ed64fb4d97f28242eee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '26a0d3f83c9602a19b9558c0410ff940') in 0.046020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_006.mat
+  artifactKey: Guid(db6f1256c92a88e4fadfca97ad870307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_006.mat using Guid(db6f1256c92a88e4fadfca97ad870307) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '983ce9237368cb9aa51c40c572c74ca2') in 0.078867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_012.mat
+  artifactKey: Guid(bf3fbea92620c0b4faadf0abbd63b2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_012.mat using Guid(bf3fbea92620c0b4faadf0abbd63b2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '7b8b1fdbf15f0d2f4773dcb977ca89e3') in 0.030771 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002433 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_026.mat
+  artifactKey: Guid(d5b6df83a91e0544dada0773e9a6611d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_026.mat using Guid(d5b6df83a91e0544dada0773e9a6611d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '25bc5f21778befac7a4bbfa739bd2083') in 0.049880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_007.mat
+  artifactKey: Guid(ce1ab3ec663cf1445882d39ea5c0d300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_007.mat using Guid(ce1ab3ec663cf1445882d39ea5c0d300) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '1e42d79bb8493c665ac646fc9492ebac') in 0.131161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_020.mat
+  artifactKey: Guid(ec83c8d24b8edc949845b05d4c1120dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_020.mat using Guid(ec83c8d24b8edc949845b05d4c1120dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '7fed07ebd422522efd09b55b91ffd536') in 0.053250 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_017.mat
+  artifactKey: Guid(7045ff47b298edf41ac2e6d96a1faa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_017.mat using Guid(7045ff47b298edf41ac2e6d96a1faa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '489483a3b8f54bd40c9d0c36ad14fa16') in 0.081684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_030.mat
+  artifactKey: Guid(19afb8667067fa8418faf0dbab7d4771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_030.mat using Guid(19afb8667067fa8418faf0dbab7d4771) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '68ffeadc48c9822233e3a4b0c4ab4b7e') in 0.038725 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_028.mat
+  artifactKey: Guid(355770cfacadc7f4e8fc180a5e0d755a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_028.mat using Guid(355770cfacadc7f4e8fc180a5e0d755a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '6dd8dc9bbafe74ab2eacfc1f5a597ed1') in 0.054987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_018.mat
+  artifactKey: Guid(6027df5cac4aa9e48827aeaf4e27d3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_018.mat using Guid(6027df5cac4aa9e48827aeaf4e27d3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '6ae71794c7aecfbaa02fa75bb413926d') in 0.033014 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_002.mat
+  artifactKey: Guid(3268f2fba2406ac45ace730d18764ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_002.mat using Guid(3268f2fba2406ac45ace730d18764ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '8395bf7981e967506867eca931986eff') in 0.024949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_004.mat
+  artifactKey: Guid(34de144947b585a42adb9e44aba1485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_004.mat using Guid(34de144947b585a42adb9e44aba1485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'a038309e8c2271eb5dfde5604bd3567d') in 0.024628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_025.mat
+  artifactKey: Guid(780c10539f1362e4f942cabd3d8b4fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_025.mat using Guid(780c10539f1362e4f942cabd3d8b4fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '97f0609bbd240584ce3abc3be75d4d4a') in 0.037093 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.291977 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_035.mat
+  artifactKey: Guid(ab0fd3818c70d4940b7058a0fdc2a79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_035.mat using Guid(ab0fd3818c70d4940b7058a0fdc2a79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '2a093a6e961f12531a35422df5f11feb') in 0.027065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_036.mat
+  artifactKey: Guid(cf488d3a77edaff4ea7ad76b9f53a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_036.mat using Guid(cf488d3a77edaff4ea7ad76b9f53a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'dbb6ad6aa4a3abec70fe665c64783feb') in 0.035853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_049.mat
+  artifactKey: Guid(3941e0e0c50d43c43aaf8566faecf918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_049.mat using Guid(3941e0e0c50d43c43aaf8566faecf918) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '4fece5dffd0205a8db4cb4fa7dae2ffe') in 0.051887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_043.mat
+  artifactKey: Guid(fd6fa20b6d459b044bb2133ee3c62d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_043.mat using Guid(fd6fa20b6d459b044bb2133ee3c62d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '6c063780fc1309e86d6ab3314f07859d') in 0.067587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_041.mat
+  artifactKey: Guid(23d78e8baa9779e479cee62c1f997451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_041.mat using Guid(23d78e8baa9779e479cee62c1f997451) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'ce49f1440232e827b03863dd3639fa4d') in 0.037668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001232 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_052.mat
+  artifactKey: Guid(11be2af93ffb2d946b0f4b30914077ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_052.mat using Guid(11be2af93ffb2d946b0f4b30914077ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'e12e6647b014dadded7771081cc4827d') in 0.071285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_038.mat
+  artifactKey: Guid(895c78df29416574eab9f9035ef17b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_038.mat using Guid(895c78df29416574eab9f9035ef17b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '88a9b2efd8db5fefee58904188bf9317') in 0.050108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_059.mat
+  artifactKey: Guid(cb40f358959717041b4e7f511705e21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_059.mat using Guid(cb40f358959717041b4e7f511705e21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'c34ed83cc5cf5b27e5dd9e42355c47a7') in 0.031231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_069.mat
+  artifactKey: Guid(5e76bf73ee498664da8f97944e95faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_069.mat using Guid(5e76bf73ee498664da8f97944e95faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'f39cad3d4a9d08d19b93c87ce9dc4078') in 0.036842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_063.mat
+  artifactKey: Guid(368fe999987e58543b616861cdc364c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_063.mat using Guid(368fe999987e58543b616861cdc364c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'c0a35f20f376e8087c05df39f3d1770c') in 0.025203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_061.mat
+  artifactKey: Guid(ecb00496e8df2aa47bd0dfaaa2489fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_061.mat using Guid(ecb00496e8df2aa47bd0dfaaa2489fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '3d408244a4bf0388b156c6b1513a7b0c') in 0.035098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_065.mat
+  artifactKey: Guid(c8c3421d4c2226b43bd4d9c61c558b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_065.mat using Guid(c8c3421d4c2226b43bd4d9c61c558b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '06fe562a73da73f7d88bea1d26fe8459') in 0.039121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_066.mat
+  artifactKey: Guid(61321aac3aef8cd4eae694ff0c72b188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_066.mat using Guid(61321aac3aef8cd4eae694ff0c72b188) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '119481ce148be4d10fd1b0c0a2fedf66') in 0.035633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_054.mat
+  artifactKey: Guid(841691a30d0815343895705feb3e7f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_054.mat using Guid(841691a30d0815343895705feb3e7f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'fa6b8831701347b4dc9a755814c47c5c') in 0.023575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_040.mat
+  artifactKey: Guid(c39a4737bbd2a7d479b8ea9dc28847fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_040.mat using Guid(c39a4737bbd2a7d479b8ea9dc28847fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'd7aad7702e37a669ae5c77f000d32305') in 0.061974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_078.mat
+  artifactKey: Guid(b8211b44b1e44a448b1e1f82470d6610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_078.mat using Guid(b8211b44b1e44a448b1e1f82470d6610) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'c48909e217d7921b550a8511417b33d4') in 0.077121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_079.mat
+  artifactKey: Guid(ff9b09dfca06b524ca3af4676071d546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_079.mat using Guid(ff9b09dfca06b524ca3af4676071d546) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'b3ec6141cf064d2b7aba94560980a7ea') in 0.030317 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_085.mat
+  artifactKey: Guid(28af88a345fb22c4dac1bb06910150b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_085.mat using Guid(28af88a345fb22c4dac1bb06910150b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '69b573565f534cd7850672340a33357d') in 0.041981 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_104.mat
+  artifactKey: Guid(2aed0e60dba55934c8c596068041cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_104.mat using Guid(2aed0e60dba55934c8c596068041cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '3a74e8d4d113345bc233622f881a3973') in 0.056754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_099.mat
+  artifactKey: Guid(51576c8c4e6332b4cb1e63e811391003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_099.mat using Guid(51576c8c4e6332b4cb1e63e811391003) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'f359e37e456ec0c7cd31d5cc8fb530a5') in 0.057854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002263 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_095.mat
+  artifactKey: Guid(859b6b75f2bfc394d9a07dd5e6676bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_095.mat using Guid(859b6b75f2bfc394d9a07dd5e6676bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '459f36aca6bb1081bfd56debdff5a082') in 0.033947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_111.mat
+  artifactKey: Guid(0b174fd9d5e5d23429fb54fc164d0ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_111.mat using Guid(0b174fd9d5e5d23429fb54fc164d0ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '887c5515581b4df685fb2f895ed943a3') in 0.035783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_112.mat
+  artifactKey: Guid(c7e7662bc3c82e84f9e8e58f3f0057bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_112.mat using Guid(c7e7662bc3c82e84f9e8e58f3f0057bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'e8b765421ce62371d6fbb4fd2a18c87f') in 0.028843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_119.mat
+  artifactKey: Guid(2f7932b462aaad34eaae246f40dc427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_119.mat using Guid(2f7932b462aaad34eaae246f40dc427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '360858e350288e8a3ea33b51a20a8dc1') in 0.023859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_125.mat
+  artifactKey: Guid(f32b3036bcadc5441b70b538882f43f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_125.mat using Guid(f32b3036bcadc5441b70b538882f43f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'e6030538d1650236e590a7fe012117ea') in 0.053094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_121.mat
+  artifactKey: Guid(87a768172f8191c4eafaa2fa3b88a90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_121.mat using Guid(87a768172f8191c4eafaa2fa3b88a90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '46dc96e6a9aab0b52f63ee28e3cc5f83') in 0.018257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_090.mat
+  artifactKey: Guid(bcdee96cd6a86a745a043eb88c81d69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_090.mat using Guid(bcdee96cd6a86a745a043eb88c81d69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '2c9d32fd94f942b5e12a53c960a1be51') in 0.047046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_096.mat
+  artifactKey: Guid(9b5ef52fa4f0bb04283fcd33c805f18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_096.mat using Guid(9b5ef52fa4f0bb04283fcd33c805f18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '153098a78d11b6e178588de29f80dd63') in 0.039601 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_136.mat
+  artifactKey: Guid(941116f3737e670438fd9f2098172650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_136.mat using Guid(941116f3737e670438fd9f2098172650) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '6acb4fac35264bd7ff9b388b438a92a2') in 0.026085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_116.mat
+  artifactKey: Guid(e996c593d9b13a1498ded90c809b35aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_116.mat using Guid(e996c593d9b13a1498ded90c809b35aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '50430bc134999c172ae590c7b5ae2d11') in 0.054524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_134.mat
+  artifactKey: Guid(6af6de36ecb1a2440831b2603dbf77e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_134.mat using Guid(6af6de36ecb1a2440831b2603dbf77e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'ce41b61fb75e6dfa07f6d9d4980f2ad6') in 0.059965 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001046 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_062.mat
+  artifactKey: Guid(51e4e047072f3044d9b50049c302ebde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_062.mat using Guid(51e4e047072f3044d9b50049c302ebde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '3a11a7aaecf3db34e06278ba63b19e5e') in 0.029632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.011694 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_060.mat
+  artifactKey: Guid(8a7369741c6a94e4e869a3a55b8ad7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_060.mat using Guid(8a7369741c6a94e4e869a3a55b8ad7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '7f5136e9628a5d756c039bcc938f7780') in 0.042535 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_129.mat
+  artifactKey: Guid(6bfb505561db02f4186618e96187c45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_129.mat using Guid(6bfb505561db02f4186618e96187c45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'ef5719616756b3d0fb8a1038b5893fbf') in 0.046882 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002650 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_075.mat
+  artifactKey: Guid(569d0aebe37b78f4bbce45c3ad5624ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_075.mat using Guid(569d0aebe37b78f4bbce45c3ad5624ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '90e367172242b1961d74be2f1291983f') in 0.036827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_101.mat
+  artifactKey: Guid(45b0d289ed1dc6f42b13879e7c6c30b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_101.mat using Guid(45b0d289ed1dc6f42b13879e7c6c30b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '44cd397e634729fc573aa186ce7cb70e') in 0.047930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002535 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_102.mat
+  artifactKey: Guid(71d253954d8a6c44596eebcb94c03f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_102.mat using Guid(71d253954d8a6c44596eebcb94c03f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '789afd9c07e40862854ffd8a98304231') in 0.060081 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_143.mat
+  artifactKey: Guid(bb0cb1baa6c2a7f4e9e7ebd290e5382f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_143.mat using Guid(bb0cb1baa6c2a7f4e9e7ebd290e5382f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '43da2603259ef4090728a88b4267344a') in 0.031451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_083.mat
+  artifactKey: Guid(1f04193488a7dc94783ac48865a2787f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_083.mat using Guid(1f04193488a7dc94783ac48865a2787f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'bc22b1da8a2cc93dc0b9cb0fd9e326e7') in 0.047478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_081.mat
+  artifactKey: Guid(f281a499c400dfe47bb93756553c1d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_081.mat using Guid(f281a499c400dfe47bb93756553c1d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '05cb26f70089ec415b42d47d69ca6827') in 0.083208 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.003651 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_084.mat
+  artifactKey: Guid(21de5370c66074e4b8c6e8f69ea56976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_084.mat using Guid(21de5370c66074e4b8c6e8f69ea56976) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'c99f3232ee2133d1054066a6e22b8428') in 0.046696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.011874 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_109.mat
+  artifactKey: Guid(46fecd81b57021144be4f3ae07b772ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_109.mat using Guid(46fecd81b57021144be4f3ae07b772ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'f29f52564e73e876ad6850306238e786') in 0.082945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_088.mat
+  artifactKey: Guid(b29f01d9d5781da4fa13b05a97f2c072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_088.mat using Guid(b29f01d9d5781da4fa13b05a97f2c072) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'b14c9bc25626d4ac4149b9fab2a54742') in 0.071000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.003795 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_124.mat
+  artifactKey: Guid(4de9a8ffc71531b4faa9f7cefbcd66de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_124.mat using Guid(4de9a8ffc71531b4faa9f7cefbcd66de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'f18a8cba9cddef99278ecbbaad7c238b') in 0.090939 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_103.mat
+  artifactKey: Guid(081b672f2d1f494448284bc3025c9836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_103.mat using Guid(081b672f2d1f494448284bc3025c9836) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '04a816f69e85cf9b562d098ccbc38d62') in 0.063406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.003208 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_117.mat
+  artifactKey: Guid(3635ebdda65002f4f9a9b3ffccabbf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_117.mat using Guid(3635ebdda65002f4f9a9b3ffccabbf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '88dd749450c0c680db0632242bbb1eeb') in 0.051166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_044.mat
+  artifactKey: Guid(627fb290c4558cf4ba0460729f7dd894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_044.mat using Guid(627fb290c4558cf4ba0460729f7dd894) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '34c0254b40b97fe1df661a9ed612b6cf') in 0.077127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_114.mat
+  artifactKey: Guid(756fcfaff3ec0b24b8ea84e56f019149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_114.mat using Guid(756fcfaff3ec0b24b8ea84e56f019149) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '769f8682fc6d81dc0a6ec69a7ad3f09e') in 0.059594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002137 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_046.mat
+  artifactKey: Guid(b4d323d07b134b04d883727083ba4626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_046.mat using Guid(b4d323d07b134b04d883727083ba4626) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'dfa2e5781e8f0f064a438d9260366a1b') in 0.051778 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_108.mat
+  artifactKey: Guid(dffa8d848b9a3794aa3ca52df6b6c31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_108.mat using Guid(dffa8d848b9a3794aa3ca52df6b6c31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '6435bd961884932f0a664cced3b071e9') in 0.048050 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_048.mat
+  artifactKey: Guid(7016f8b1dd35dcb449c71f25657e0f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_048.mat using Guid(7016f8b1dd35dcb449c71f25657e0f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'c1c2241beddbb2056692979d446c81d8') in 0.044483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_097.mat
+  artifactKey: Guid(47272a61a849d4d478310fc62858bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_097.mat using Guid(47272a61a849d4d478310fc62858bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'ba483324a2a697f4e48e37236d2486aa') in 0.029097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_123.mat
+  artifactKey: Guid(7681d381c16edc64893260e54f6627b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_123.mat using Guid(7681d381c16edc64893260e54f6627b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'cde878a7dc73710b0ce48f8872f9bbbb') in 0.071709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_071.mat
+  artifactKey: Guid(9c5650d75986aa04ba5cbed347306343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficsignsTexturesLowResolution/ExampleScene/Materials/sign_071.mat using Guid(9c5650d75986aa04ba5cbed347306343) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '8eb7b0e819f5b5e33ada89fc1f05df09') in 0.041454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -355,6 +355,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/FastMesh/Scripts/SceneViewText.cs"
 "Assets/Scripts/Car_AI.cs"
 "Assets/Scripts/FollowPlayer.cs"
 "Assets/Scripts/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Scripts/CTI_CustomWind.cs"
@@ -403,6 +404,7 @@
 "Assets/Traffic Lights System/Scripts/TrafficLightBase.cs"
 "Assets/Traffic Lights System/Scripts/TrafficLightManager.cs"
 "Assets/Traffic Lights System/Scripts/TrafficLightPhase.cs"
+"Assets/TrafficsignsTexturesLowResolution/ExampleScene/Scripts/CameraFreeflight.cs"
 -langversion:9.0
 /deterministic
 /optimize+

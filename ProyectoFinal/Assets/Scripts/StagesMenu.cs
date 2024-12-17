@@ -15,12 +15,17 @@ public class Stagesmenu : MonoBehaviour
 
     public void P2()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(3);
     }
 
     public void P3()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(4);
+    }
+
+    public void P4()
+    {
+        SceneManager.LoadScene(5);
     }
 
     public void Return()

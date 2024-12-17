@@ -73,6 +73,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Traffic Lights System\Scripts\TrafficLightManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\FastMesh\Scripts\SceneViewText.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
@@ -95,6 +96,7 @@
     <Compile Include="Assets\Scripts\Forst\CTI Runtime Components\CTI Runtime Components HDRP 12plus\Scripts\CTI_HDRP_CustomWind.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\Scripts\Car_AI.cs" />
+    <Compile Include="Assets\TrafficsignsTexturesLowResolution\ExampleScene\Scripts\CameraFreeflight.cs" />
     <Compile Include="Assets\Scripts\Forst\CTI Runtime Components\CTI Runtime Components BIRP\Scripts\CTI_Utils.cs" />
     <Compile Include="Assets\Scripts\Forst\CTI Runtime Components\CTI Runtime Components BIRP\Scripts\CTI_CustomWind.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
@@ -113,6 +115,7 @@
     <None Include="Assets\Scripts\Forst\CTI Runtime Components\CTI Runtime Components BIRP\Shaders\CTI_LOD_Bark_Array_301.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\FastMesh\README.txt" />
     <None Include="Assets\Scripts\Forst\CTI Runtime Components\CTI Runtime Components BIRP\Shaders\CTI_LOD_Billboard_301.shader" />
     <None Include="Assets\Scripts\Forst\CTI Runtime Components\CTI Runtime Components BIRP\Resources\CTI_Camera-DepthNormalTexture_301.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -152,6 +155,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TrafficControl_KurotatsuStudios\KurotatsuStudiosReadMe.txt" />
     <None Include="Assets\Scripts\Forst\CTI Runtime Components\CTI Runtime Components HDRP 12plus\Shaders\Includes\CTI_HDRP_12plus_ColorVariation.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
