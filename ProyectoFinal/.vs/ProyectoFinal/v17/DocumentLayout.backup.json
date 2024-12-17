@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|c:\\users\\supre\\onedrive\\documentos\\github\\proyectoingenieria\\proyectofinal\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:55:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Playerbehaviour.cs",
               "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Playerbehaviour.cs",
               "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
               "RelativeToolTip": "Assets\\Scripts\\Playerbehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T21:16:21.175Z",
               "EditorCaption": ""

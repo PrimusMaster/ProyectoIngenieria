@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|c:\\users\\supre\\onedrive\\documentos\\github\\proyectoingenieria\\proyectofinal\\assets\\scripts\\camerabehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerabehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FollowPlayer.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Title": "CameraBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\CameraBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraBehaviour.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\CameraBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T00:55:17.199Z",
+              "WhenOpened": "2024-12-15T03:03:48.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Playerbehaviour.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Playerbehaviour.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
               "RelativeToolTip": "Assets\\Scripts\\Playerbehaviour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
