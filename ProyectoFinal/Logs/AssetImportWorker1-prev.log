@@ -15,7 +15,7 @@ D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-50573
+50780
 Successfully changed project path to: D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
 D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,14 +49,14 @@ D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [5248]  Target information:
+Player connection [6564]  Target information:
 
-Player connection [5248]  * "[IP] 192.168.0.215 [Port] 0 [Flags] 2 [Guid] 1273685660 [EditorId] 1273685660 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1JLFIKG6) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [6564]  * "[IP] 192.168.0.215 [Port] 0 [Flags] 2 [Guid] 1331031096 [EditorId] 1331031096 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1JLFIKG6) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [5248] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [5248] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [6564] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [6564] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-Refreshing native plugins compatible for Editor in 48.07 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 103.27 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.54f1 (129125d4e700)
 [Subsystems] Discovering subsystems at path D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Resources/UnitySubsystems
@@ -72,49 +72,49 @@ Initialize mono
 Mono path[0] = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56052
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.068565 seconds.
-- Loaded All Assemblies, in  1.153 seconds
+Registered in 0.076547 seconds.
+- Loaded All Assemblies, in  1.234 seconds
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 652 ms
+Android Extension - Scanning For ADB Devices 643 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.456 seconds
-Domain Reload Profiling: 2585ms
-	BeginReloadAssembly (361ms)
+- Finished resetting the current domain, in  1.435 seconds
+Domain Reload Profiling: 2641ms
+	BeginReloadAssembly (389ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (92ms)
-	RebuildNativeTypeToScriptingClass (24ms)
-	initialDomainReloadingComplete (242ms)
-	LoadAllAssembliesAndSetupDomain (409ms)
-		LoadAssemblies (344ms)
+	RebuildCommonClasses (79ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (246ms)
+	LoadAllAssembliesAndSetupDomain (470ms)
+		LoadAssemblies (374ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (399ms)
-			TypeCache.Refresh (396ms)
-				TypeCache.ScanAssembly (368ms)
+		AnalyzeDomain (459ms)
+			TypeCache.Refresh (456ms)
+				TypeCache.ScanAssembly (423ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (1457ms)
+	FinalizeReload (1436ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1355ms)
+		SetupLoadedEditorAssemblies (1328ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (886ms)
-			SetLoadedEditorAssemblies (12ms)
+			InitializePlatformSupportModulesInManaged (856ms)
+			SetLoadedEditorAssemblies (8ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (5ms)
-			ProcessInitializeOnLoadAttributes (340ms)
-			ProcessInitializeOnLoadMethodAttributes (111ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (283ms)
+			ProcessInitializeOnLoadMethodAttributes (176ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -123,262 +123,158 @@ Domain Reload Profiling: 2585ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.450 seconds
+- Loaded All Assemblies, in  2.241 seconds
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.168 seconds
-Domain Reload Profiling: 4585ms
-	BeginReloadAssembly (412ms)
+- Finished resetting the current domain, in  1.758 seconds
+Domain Reload Profiling: 3975ms
+	BeginReloadAssembly (369ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (13ms)
+		DisableScriptedObjects (9ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (55ms)
-	RebuildCommonClasses (115ms)
-	RebuildNativeTypeToScriptingClass (30ms)
-	initialDomainReloadingComplete (176ms)
-	LoadAllAssembliesAndSetupDomain (1682ms)
-		LoadAssemblies (1446ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (161ms)
+	LoadAllAssembliesAndSetupDomain (1599ms)
+		LoadAssemblies (1370ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (500ms)
-			TypeCache.Refresh (449ms)
-				TypeCache.ScanAssembly (409ms)
-			ScanForSourceGeneratedMonoScriptInfo (34ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (2169ms)
+		AnalyzeDomain (459ms)
+			TypeCache.Refresh (428ms)
+				TypeCache.ScanAssembly (342ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1759ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1820ms)
+		SetupLoadedEditorAssemblies (1474ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (88ms)
-			SetLoadedEditorAssemblies (10ms)
+			InitializePlatformSupportModulesInManaged (50ms)
+			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (236ms)
-			ProcessInitializeOnLoadAttributes (1394ms)
-			ProcessInitializeOnLoadMethodAttributes (45ms)
+			BeforeProcessingInitializeOnLoad (194ms)
+			ProcessInitializeOnLoadAttributes (1140ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
 			AfterProcessingInitializeOnLoad (46ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (10ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
-Refreshing native plugins compatible for Editor in 18.29 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 29.75 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3170 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (55.9 KB). Loaded Objects now: 3660.
-Memory consumption went from 165.7 MB to 165.7 MB.
-Total: 8.311900 ms (FindLiveObjects: 0.677600 ms CreateObjectMapping: 0.177100 ms MarkObjects: 7.137300 ms  DeleteObjects: 0.316500 ms)
+Unloading 3177 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (55.2 KB). Loaded Objects now: 3667.
+Memory consumption went from 165.8 MB to 165.7 MB.
+Total: 5.778300 ms (FindLiveObjects: 0.392600 ms CreateObjectMapping: 0.136500 ms MarkObjects: 5.042600 ms  DeleteObjects: 0.204600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:scripting/monoscript/fileName/ConifersInstaller.cs: 9f0ed361679163d72c7d9127f8a40b39 -> 34412fab510de16a07b21d03f07e61f8
-  custom:scripting/monoscript/fileName/CTI_DetailsEnum.cs: 82d41e41579e1eab55b01d88c2b036c0 -> 1381aff641afc3ad694ed533f4c35929
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:scripting/monoscript/fileName/CTI_Utils.cs: 8b3870fc27b570715bbcaaeddf51d5d0 -> ccf29895ac462242bccf087f7523e9d7
   custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:scripting/monoscript/fileName/CTI_AdvancedEdgeFluttering.cs: 2c73003ba2c3482cfd7eb043d8375307 -> f3f9dca16963da607b1452ee09203c1c
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
   custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:scripting/monoscript/fileName/CTI_HDRP_CustomWind.cs: 4dc4914775812cb3205e45e59199719b -> d8edc73887f65b86a29cb9b9b4c1dda5
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:scripting/monoscript/fileName/CTI_CustomWind.cs: 0f61021cfe748d08091daaf9f6a57bfb -> 259d55a56f29cba5a4c6d11b6d00e7c1
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:scripting/monoscript/fileName/CTI_ShaderGUI.cs: 7c36daf913f92df0fcd5e518c4c55caa -> 262df46dd24994e8fe493ac445540586
 ========================================================================
 Received Import Request.
-  Time since last request: 3604.892901 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Materials/Tarbo_CITY_TrafficLights.mat
-  artifactKey: Guid(7846323804921cb429fa82552991a231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Materials/Tarbo_CITY_TrafficLights.mat using Guid(7846323804921cb429fa82552991a231) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+  Time since last request: 6469.461805 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/building_interior.mat
+  artifactKey: Guid(c7040db656dd78e4db434fd7330def51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/building_interior.mat using Guid(c7040db656dd78e4db434fd7330def51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '6873a5d898608b68af5fde25e5cae240') in 0.449016 seconds
+ -> (artifact id: 'f4df6e734ea2d597f1471d53242e0b7c') in 58.492480 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/pink_light.mat
+  artifactKey: Guid(dacfa358e9317634f9d90daba2a320f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/pink_light.mat using Guid(dacfa358e9317634f9d90daba2a320f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'f564707a3e15eda8617f3ca7a0cf61e4') in 6.093564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/asphalt_square.mat
+  artifactKey: Guid(614dd1ad77a3649498945301458c6489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/asphalt_square.mat using Guid(614dd1ad77a3649498945301458c6489) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '55a8b31cca43a4f7454d7b3ea0b9ab6e') in 8.418981 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/highway_wall.mat
+  artifactKey: Guid(d6de95fc1051f9e40a1c2b8cfada2c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/highway_wall.mat using Guid(d6de95fc1051f9e40a1c2b8cfada2c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '2adc8c37b7d2cafa8738b5a124beede2') in 33.863750 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 1.526989 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4_Green.FBX
-  artifactKey: Guid(ad51b4616bb54234ca0f78417b251022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4_Green.FBX using Guid(ad51b4616bb54234ca0f78417b251022) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/asphalt_4_tracks.mat
+  artifactKey: Guid(3216e81dc42407948a4889aa3c979c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/asphalt_4_tracks.mat using Guid(3216e81dc42407948a4889aa3c979c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: 'b2dc8c39896f0fc77436fd239385f871') in 0.159289 seconds
+ -> (artifact id: '694b0b1af63c634023de449b985ccd2d') in 17.807081 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
+Number of asset objects unloaded after import = 4
 ========================================================================
 Received Import Request.
-  Time since last request: 0.009371 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4_Yellow.FBX
-  artifactKey: Guid(5eaf8fa1624f47d49a80ca79919a02ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4_Yellow.FBX using Guid(5eaf8fa1624f47d49a80ca79919a02ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/blue_light.mat
+  artifactKey: Guid(47791ffc03ec2c64fbd077752860cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/blue_light.mat using Guid(47791ffc03ec2c64fbd077752860cd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: 'e15c418d71f5d2a9ff445ccca0fa5851') in 0.065999 seconds
+ -> (artifact id: '8942cc7fee34a1c4dbfba8a0942601c2') in 0.124964 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001088 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_A_Black.FBX
-  artifactKey: Guid(e05e20f043eca2f48b9c4e8e42a2ecf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_A_Black.FBX using Guid(e05e20f043eca2f48b9c4e8e42a2ecf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/building_bases.mat
+  artifactKey: Guid(7304ae2ab1b71784c9b6e3e785e4d869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/building_bases.mat using Guid(7304ae2ab1b71784c9b6e3e785e4d869) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: 'ba8e66cb5a37ccb14f9235826256021b') in 0.044494 seconds
+ -> (artifact id: '8896417bf03bd5a5a7f1ca7f908fa234') in 11.098561 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
+Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002865 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_A_Green.FBX
-  artifactKey: Guid(461787c622cc92c46b76683cfb427ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_A_Green.FBX using Guid(461787c622cc92c46b76683cfb427ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/orange_light.mat
+  artifactKey: Guid(faba0caff81e6d041a9f29d7045d39bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/orange_light.mat using Guid(faba0caff81e6d041a9f29d7045d39bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: 'cfdbbd81e47c0b80c7d40870e6becac9') in 0.048370 seconds
+ -> (artifact id: '87ea702a56adb7ef9ca6d4388827e175') in 0.616310 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000317 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_B_Yellow.FBX
-  artifactKey: Guid(149ef9ecdfebedd4a93383cb7767dc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_B_Yellow.FBX using Guid(149ef9ecdfebedd4a93383cb7767dc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+  Time since last request: 0.001316 seconds.
+  path: Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/asphalt_2_tracks.mat
+  artifactKey: Guid(f96faff657ba0a54d8392a93c22371a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Versatile Studio Assets/Demo City By Versatile Studio/Materials/asphalt_2_tracks.mat using Guid(f96faff657ba0a54d8392a93c22371a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '6cca4efdff3a00f42b8b2cbcaaf61d9c') in 0.032611 seconds
+ -> (artifact id: 'b3edee6bd9ac761de5c39fbfcee85274') in 0.610586 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000811 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_B_Black.FBX
-  artifactKey: Guid(b841e7c414b8e844a90ddbe9fec65be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_B_Black.FBX using Guid(b841e7c414b8e844a90ddbe9fec65be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: 'c9c01ddc9c241e9099de9de7f20546a6') in 0.031781 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_Base_T_B.FBX
-  artifactKey: Guid(75adc5b2432b8e2429e3c65b2bcea843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_Base_T_B.FBX using Guid(75adc5b2432b8e2429e3c65b2bcea843) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: 'ec8da76f694008bd89949a00c39b2f8f') in 0.033557 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_C_Black.FBX
-  artifactKey: Guid(f1573807c702a7a4eab92fb6d3374ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_C_Black.FBX using Guid(f1573807c702a7a4eab92fb6d3374ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '561e882519f6b593d6c4cf903bd6af19') in 0.048441 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_B_White.FBX
-  artifactKey: Guid(958521b3dca241240a3458643ce91b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_B_White.FBX using Guid(958521b3dca241240a3458643ce91b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '45d69a651cf4948f1374f58b2ecbef08') in 0.052797 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4_white.FBX
-  artifactKey: Guid(d7b6dfda273f0234496e3d6cdbbe4927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4_white.FBX using Guid(d7b6dfda273f0234496e3d6cdbbe4927) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '069b4249a13677845ec2d268443f7d1a') in 0.132364 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.005048 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4Set_White.FBX
-  artifactKey: Guid(7186b076798c1fb42a5410afeb599166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_4Set_White.FBX using Guid(7186b076798c1fb42a5410afeb599166) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '8aba9cec569485b8a04e84d367efbe66') in 0.049900 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 1.649577 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_C_White.FBX
-  artifactKey: Guid(ad52ada8548532a4ba2cc1b4e16ef4ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_C_White.FBX using Guid(ad52ada8548532a4ba2cc1b4e16ef4ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '29b6bcb3c7ef4921cd1069c2f190ac45') in 0.039490 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.161594 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_HSet_Green.FBX
-  artifactKey: Guid(292b8eda0c77a7b4b90116bd11dc1658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_HSet_Green.FBX using Guid(292b8eda0c77a7b4b90116bd11dc1658) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '1e38bf2b0b9bb51193faf2037181ebb7') in 0.025320 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.017365 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_HSet_Yellow.FBX
-  artifactKey: Guid(7a7fface679834c41b45c66f1dbddb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_HSet_Yellow.FBX using Guid(7a7fface679834c41b45c66f1dbddb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: 'c62dea4daf8de82bcc369c0aabcf2b87') in 0.026814 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_VSet_Green.FBX
-  artifactKey: Guid(fe0a2cf5b16764547b74d31f6daf28a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_VSet_Green.FBX using Guid(fe0a2cf5b16764547b74d31f6daf28a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '4e58a47d708e60096289db76b5dc4fa5') in 0.049416 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.001648 seconds.
-  path: Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_VSet_Yellow.FBX
-  artifactKey: Guid(0342b7753732c704e9a3bcba2135748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tarbo-CITY-TrafficLights/Meshes/TB_CITY_Prop_TrafficLight_VSet_Yellow.FBX using Guid(0342b7753732c704e9a3bcba2135748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
- -> (artifact id: '8fa340781b4235976897952f4a4472bc') in 0.047112 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
+Number of asset objects unloaded after import = 4
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
 AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
