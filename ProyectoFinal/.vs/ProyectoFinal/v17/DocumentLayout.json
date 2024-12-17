@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\stagesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stagesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\pausamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\stagesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stagesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,29 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Playerbehaviour.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Playerbehaviour.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Playerbehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PausaMenu.cs",
+              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\PausaMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PausaMenu.cs",
+              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\PausaMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PausaMenu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:13:42.281Z"
+              "WhenOpened": "2024-12-17T18:20:28.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StagesMenu.cs",
               "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\StagesMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StagesMenu.cs",
               "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\StagesMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\StagesMenu.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T05:28:51.842Z",
               "EditorCaption": ""

@@ -1,0 +1,430 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.54f1 (129125d4e700) revision 1216805'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'es' Physical Memory: 10153 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\Hub\Editor\2022.3.54f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+51308
+Successfully changed project path to: D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
+D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [3028]  Target information:
+
+Player connection [3028]  * "[IP] 192.168.0.215 [Port] 0 [Flags] 2 [Guid] 4122746387 [EditorId] 4122746387 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-1JLFIKG6) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3028] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3028] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+Refreshing native plugins compatible for Editor in 48.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.54f1 (129125d4e700)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/emilio/uni/codigosGit/ProyectoIngenieria/ProyectoFinal/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 6 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     5076 MB
+    Driver:   26.20.11028.0
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.54f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.059305 seconds.
+- Loaded All Assemblies, in  3.314 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 1227 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.198 seconds
+Domain Reload Profiling: 6449ms
+	BeginReloadAssembly (452ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (247ms)
+	RebuildNativeTypeToScriptingClass (55ms)
+	initialDomainReloadingComplete (1114ms)
+	LoadAllAssembliesAndSetupDomain (1382ms)
+		LoadAssemblies (385ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1317ms)
+			TypeCache.Refresh (1315ms)
+				TypeCache.ScanAssembly (1228ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (3199ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2880ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1712ms)
+			SetLoadedEditorAssemblies (16ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (691ms)
+			ProcessInitializeOnLoadMethodAttributes (457ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.695 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.164 seconds
+Domain Reload Profiling: 11679ms
+	BeginReloadAssembly (1946ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (128ms)
+	RebuildCommonClasses (321ms)
+	RebuildNativeTypeToScriptingClass (101ms)
+	initialDomainReloadingComplete (719ms)
+	LoadAllAssembliesAndSetupDomain (3427ms)
+		LoadAssemblies (3937ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (748ms)
+			TypeCache.Refresh (689ms)
+				TypeCache.ScanAssembly (652ms)
+			ScanForSourceGeneratedMonoScriptInfo (46ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (5165ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4434ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (103ms)
+			SetLoadedEditorAssemblies (21ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (551ms)
+			ProcessInitializeOnLoadAttributes (3572ms)
+			ProcessInitializeOnLoadMethodAttributes (119ms)
+			AfterProcessingInitializeOnLoad (69ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.42 seconds
+Refreshing native plugins compatible for Editor in 28.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3177 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.9 KB). Loaded Objects now: 3667.
+Memory consumption went from 166.4 MB to 166.4 MB.
+Total: 8.546000 ms (FindLiveObjects: 0.458300 ms CreateObjectMapping: 0.271800 ms MarkObjects: 7.603300 ms  DeleteObjects: 0.210400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8558.653549 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/BiohazardDiamondSignPost1.prefab
+  artifactKey: Guid(005745eaff5b12042978e649864aa4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/BiohazardDiamondSignPost1.prefab using Guid(005745eaff5b12042978e649864aa4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'f4c3d7d5827444a5a110731dc177c02f') in 2.942496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/trafficConeGrungeTire.prefab
+  artifactKey: Guid(eef40ee0cb8e1314dbf981d19208070e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/trafficConeGrungeTire.prefab using Guid(eef40ee0cb8e1314dbf981d19208070e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '2f2bc2ba49d108d36326d492d1527967') in 0.247969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.003662 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/DoNotEnter.prefab
+  artifactKey: Guid(ceff6219a1a3d8c42bbae4da38b9cf15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/DoNotEnter.prefab using Guid(ceff6219a1a3d8c42bbae4da38b9cf15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '8a5fd615f8cb2b8d8528e2f54ebfe746') in 0.179746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/CautionDiamondSignPost1.prefab
+  artifactKey: Guid(742a16cbf6d1d7642abf901c47698caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/CautionDiamondSignPost1.prefab using Guid(742a16cbf6d1d7642abf901c47698caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '0a6f31d31fc0a690776f13968d7e1f96') in 0.140498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/trafficConeGrunge.prefab
+  artifactKey: Guid(72d9f7d351ac7c64db0e4c23a3b9a572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/trafficConeGrunge.prefab using Guid(72d9f7d351ac7c64db0e4c23a3b9a572) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '8556a6be31f515b5709b44a0f61d6eae') in 0.032194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/BaricadeMenAtWork.prefab
+  artifactKey: Guid(59bf6f93a384f9e41b45c36fa65e247f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/BaricadeMenAtWork.prefab using Guid(59bf6f93a384f9e41b45c36fa65e247f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '8243b23b3d2dbc36330619d3e5f95c8b') in 0.182467 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/ManholeCover.prefab
+  artifactKey: Guid(372b1d01a19bd4e478355c36cf708970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/ManholeCover.prefab using Guid(372b1d01a19bd4e478355c36cf708970) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '078724f3b00e3663f6d6e0710c84db97') in 0.811322 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/CautionBlank.prefab
+  artifactKey: Guid(12c72b38c67345847889be1354feb461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/CautionBlank.prefab using Guid(12c72b38c67345847889be1354feb461) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '3477b1af3abaa286f54f747d00950620') in 0.057686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/DelineatorWhite.prefab
+  artifactKey: Guid(8507250e1b02645428e3c32ae4a00204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/DelineatorWhite.prefab using Guid(8507250e1b02645428e3c32ae4a00204) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '56010b593ef1671a553f5069b00ed010') in 0.044979 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/CurveAheadSign.prefab
+  artifactKey: Guid(a7138a25dcc9f284f94b1b7e835a0da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/CurveAheadSign.prefab using Guid(a7138a25dcc9f284f94b1b7e835a0da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '1ebeed1619135ed29700ad536843e133') in 0.037023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/MenAtWorkTempSign.prefab
+  artifactKey: Guid(650a4aa772199af489f8d458563b6e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/MenAtWorkTempSign.prefab using Guid(650a4aa772199af489f8d458563b6e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '4aedfea07b4e38b37883a93fe78ed80b') in 0.059216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/SawhorseBarricade1.prefab
+  artifactKey: Guid(25743520d1480634aba18b8aa615f7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/SawhorseBarricade1.prefab using Guid(25743520d1480634aba18b8aa615f7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'e953e6ac9d691d9bf21e08e283fe2a01') in 0.078340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Prefabs/trafficBarrel2.prefab
+  artifactKey: Guid(b486f6f0b441ab64db88ec90f44a9901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Prefabs/trafficBarrel2.prefab using Guid(b486f6f0b441ab64db88ec90f44a9901) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '8e20916fe35b0f958a9935e2ef9965b0') in 0.853312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 133.810875 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/DoNotEnterTelesparSign copy.png
+  artifactKey: Guid(e3dd2ad0ee7b07a4296ca841cd9da870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/DoNotEnterTelesparSign copy.png using Guid(e3dd2ad0ee7b07a4296ca841cd9da870) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'dbdd6b44191efea2fc1ed751eb0648b9') in 0.113936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.481555 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/ChevronLeftTelesparSign.png
+  artifactKey: Guid(c55f862b7160a114c913277ae6d3bc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/ChevronLeftTelesparSign.png using Guid(c55f862b7160a114c913277ae6d3bc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '6066207db589498a1f6c40173d0aa125') in 0.064100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/DelineatorBlue.png
+  artifactKey: Guid(083bf0d04f2239346b5bc585cd274761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/DelineatorBlue.png using Guid(083bf0d04f2239346b5bc585cd274761) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '30e159fa459aad693d6d783516fce58f') in 0.064736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/DiamondCrossingBlank.png
+  artifactKey: Guid(ad3f33185f1160b4f996e61d4f1d6848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/DiamondCrossingBlank.png using Guid(ad3f33185f1160b4f996e61d4f1d6848) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'cb632e97f434ac9edc2416ca42be0b98') in 0.048150 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/DelineatorYellow.png
+  artifactKey: Guid(cd97c6513c8e83c4b9741d4ebe172b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/DelineatorYellow.png using Guid(cd97c6513c8e83c4b9741d4ebe172b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'e5b5b3f5eea8236eab055032fd3c876e') in 0.042089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/manholecoverbump.png
+  artifactKey: Guid(03153f6b84139b5429e856fcf73a7835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/manholecoverbump.png using Guid(03153f6b84139b5429e856fcf73a7835) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'a85fb7ff36b492e8453f63d8571a2cad') in 0.749844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/DelineatorWhite.png
+  artifactKey: Guid(ffc579a6793ee4b4689ae03a82146e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/DelineatorWhite.png using Guid(ffc579a6793ee4b4689ae03a82146e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '0a5d958f421bb5f04461238520aca7c5') in 0.029175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/HazardMarkerRightTelesparSign1.png
+  artifactKey: Guid(6c9154206eb6a5049b273d325e23a27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/HazardMarkerRightTelesparSign1.png using Guid(6c9154206eb6a5049b273d325e23a27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'b0c9a3e68ed0897b2f1fd30b0be02add') in 0.034028 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/KangaCrossDiamondSign.png
+  artifactKey: Guid(f5ab745d97c00fa4988f6ab89a1c4f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/KangaCrossDiamondSign.png using Guid(f5ab745d97c00fa4988f6ab89a1c4f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: '2dba2476ceb0a126ff90640d1d92869f') in 0.032574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/GuardrailSection.png
+  artifactKey: Guid(b584802514d2ea146b871ad112a4cf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/GuardrailSection.png using Guid(b584802514d2ea146b871ad112a4cf01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'dd0193f3c0da403d22b882d427f4635f') in 0.023495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/TrafficControl_KurotatsuStudios/Textures/NoSpeedLimitTelesparSign.png
+  artifactKey: Guid(1abca442a2dcce54a907cdac31323e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrafficControl_KurotatsuStudios/Textures/NoSpeedLimitTelesparSign.png using Guid(1abca442a2dcce54a907cdac31323e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 4 workers.
+ -> (artifact id: 'ca3556b790a8b2dd21e2cd19329b5beb') in 0.036098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
