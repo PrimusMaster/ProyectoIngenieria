@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\pausamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\ControlTab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ControlTab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|d:\\emilio\\uni\\codigosgit\\proyectoingenieria\\proyectofinal\\assets\\scripts\\stagesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|c:\\users\\supre\\onedrive\\documentos\\github\\proyectoingenieria\\proyectofinal\\assets\\traffic lights system\\scripts\\halotrafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\traffic lights system\\scripts\\halotrafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\stagesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stagesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\assets\\scripts\\pausamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,41 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PausaMenu.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\PausaMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PausaMenu.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\PausaMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PausaMenu.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Title": "ControlTab.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\ControlTab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlTab.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\ControlTab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlTab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:20:28.785Z",
+              "WhenOpened": "2024-12-18T08:42:14.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StagesMenu.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\StagesMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StagesMenu.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\StagesMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StagesMenu.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAoAAAAEAAAAAAAAAA==",
+              "Title": "HaloTrafficLight.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Traffic Lights System\\Scripts\\HaloTrafficLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Traffic Lights System\\Scripts\\HaloTrafficLight.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Traffic Lights System\\Scripts\\HaloTrafficLight.cs",
+              "RelativeToolTip": "Assets\\Traffic Lights System\\Scripts\\HaloTrafficLight.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T05:28:51.842Z",
+              "WhenOpened": "2024-12-18T08:27:58.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Playerbehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playerbehaviour.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\Playerbehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playerbehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T00:54:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PausaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\PausaMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PausaMenu.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\PausaMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PausaMenu.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:20:28.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StagesMenu.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\StagesMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StagesMenu.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\StagesMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StagesMenu.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T05:28:51.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
-              "ToolTip": "D:\\emilio\\uni\\codigosGit\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\supre\\OneDrive\\Documentos\\GitHub\\ProyectoIngenieria\\ProyectoFinal\\Assets\\Scripts\\MainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

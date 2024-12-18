@@ -6,10 +6,6 @@ using UnityEngine.UIElements;
 public class FollowPlayer : MonoBehaviour
 {
 
-    public GameObject player;
-
-    private Vector3 offset = new ((float)-0.5, (float)2.07, (float)-0.5);
-
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +15,8 @@ public class FollowPlayer : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        transform.position = player.transform.position + offset;
+        float Xaxis = Input.GetAxis("Mouse X");
+        float Yaxis = Input.GetAxis("Mouse Y");
+        transform.Rotate(new Vector3(-Yaxis, Xaxis, 0.0f));
     }
 }
