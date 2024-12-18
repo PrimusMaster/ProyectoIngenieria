@@ -16,11 +16,15 @@ public class Playerbehaviour : MonoBehaviour
     public float Desaceleracion_Ritmo = .08f;
     public Rigidbody Ritmo;
 
+    public bool intermitente;
+
+
     // Start is called before the first frame update
     void Start()
     {
         Velocidad = 0;
         Ritmo = GetComponent<Rigidbody>();
+        intermitente = false;
     }
 
     // Update is called once per frame
@@ -77,6 +81,10 @@ public class Playerbehaviour : MonoBehaviour
 
     }
 
+    void Toggle()
+    {
+        intermitente = !intermitente;
+    }
 
     void Comportamiento()
     {
@@ -114,6 +122,10 @@ public class Playerbehaviour : MonoBehaviour
         {
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
+        }
+        else if (Input.GetKey(KeyCode.Q))
+        {
+            Toggle();
         }
         else
         {
